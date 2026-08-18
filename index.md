@@ -83,7 +83,7 @@
 
 ![The Choicer Voicer cover art](images/cover.png)
 
-You load into an empty studio, judges already seated, and the only thing waiting in your library is a single test clip you dropped in five minutes ago. That's the first real moment in [The Choicer Voicer](https://thechoicervoicer.io): no roster of characters to pick, no tutorial level, just a stage, a microphone prompt, and a panel that's about to score whatever comes out of your mouth. It's an unusual way to open a game, and it tells you almost everything about how the rest of a session goes — nothing here is handed to you, and the first few minutes are spent building rather than playing.
+You load into an empty studio, judges already seated, and the only thing waiting in your library is a single test clip you dropped in five minutes ago. That's the first real moment in [The Choicer Voicer](https://thechoicervoicer.io) - no roster of characters to pick, no tutorial level, just a stage, a microphone prompt, and a panel that's about to score whatever comes out of your mouth. It's an unusual way to open a game, and it tells you almost everything about how the rest of a session goes — nothing here is handed to you, and the first few minutes are spent building rather than playing.
 
 | | |
 |---|---|
